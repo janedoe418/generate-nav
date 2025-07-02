@@ -1,0 +1,16 @@
+{
+  "url": "/parent/",
+  "name": "親ページ",
+  "items": [
+    {
+      "url": "/parent/child1/",
+      "name": "子ページ1",
+      "itemExtraClass": "js-nav-item",
+      "linkExtraClass": "js-nav-link"
+    },
+    {
+      "url": "/parent/child2/",
+      "name": "子ページ2"
+    }
+  ]
+}
